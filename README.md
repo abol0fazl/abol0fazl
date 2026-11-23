@@ -17,8 +17,6 @@
 
 <br/>
 
-[![Persian Version](https://img.shields.io/badge/🇮🇷_FA_(PERSIAN)-181818?style=flat-square&labelColor=FF3333)](README.fa.md)
-
 </div>
 
 
@@ -30,7 +28,7 @@ I combine creativity with technical precision to develop responsive, user-friend
 
 I enjoy solving complex technical problems, working with custom code, and continuously improving the quality of the products I build.
 
-- 💻 4+ years of experience in Web Development
+- 💻 5+ years of experience in Web Development
 - 🌐 Specialized in Front-End and WordPress Development
 - ⚙️ Experienced in custom development and website optimization
 - 🔍 Passionate about debugging and technical problem-solving
